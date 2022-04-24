@@ -1,3 +1,4 @@
+
 *{
   margin: 0;
   padding: 0;
@@ -89,8 +90,8 @@ button{
     color: white;
 }
 
-button:hover,
-a:hover{
+button:hover
+{
   background-color: lightblue;
 }  
 
@@ -99,8 +100,8 @@ a:hover{
 }
 
 a{
-    border: 1px solid white;
-    background-color: white;
+    
+    background-color: antiquewhite;
     color: rgb(57, 175, 214);
     border-radius: 10px;
     font-size: 20px;
