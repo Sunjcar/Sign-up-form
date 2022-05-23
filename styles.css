@@ -22,13 +22,13 @@ body{
 }
 
 .left{
-    background-image:url(./images/amy-humphries-2M_sDJ_agvs-unsplash.jpg);
+    background-image:url(./images/DarkAssuredLeopard-max-1mb.gif);
     background-position: 56%;
-    background-size: auto;
+    background-size: contain;
     background-repeat: no-repeat;
     width: 40vw;
     height: 100vh;
-    background-color: antiquewhite;
+    background-color:   lightblue;
     position: relative;
 }
 
